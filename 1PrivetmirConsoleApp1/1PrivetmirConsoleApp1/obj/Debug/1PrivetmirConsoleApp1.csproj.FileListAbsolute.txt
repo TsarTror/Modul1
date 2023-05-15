@@ -1,0 +1,8 @@
+G:\Work\CSharp\1PrivetmirConsoleApp1\1PrivetmirConsoleApp1\bin\Debug\1PrivetmirConsoleApp1.exe.config
+G:\Work\CSharp\1PrivetmirConsoleApp1\1PrivetmirConsoleApp1\bin\Debug\1PrivetmirConsoleApp1.exe
+G:\Work\CSharp\1PrivetmirConsoleApp1\1PrivetmirConsoleApp1\bin\Debug\1PrivetmirConsoleApp1.pdb
+G:\Work\CSharp\1PrivetmirConsoleApp1\1PrivetmirConsoleApp1\obj\Debug\1PrivetmirConsoleApp1.csproj.AssemblyReference.cache
+G:\Work\CSharp\1PrivetmirConsoleApp1\1PrivetmirConsoleApp1\obj\Debug\1PrivetmirConsoleApp1.csproj.SuggestedBindingRedirects.cache
+G:\Work\CSharp\1PrivetmirConsoleApp1\1PrivetmirConsoleApp1\obj\Debug\1PrivetmirConsoleApp1.csproj.CoreCompileInputs.cache
+G:\Work\CSharp\1PrivetmirConsoleApp1\1PrivetmirConsoleApp1\obj\Debug\1PrivetmirConsoleApp1.exe
+G:\Work\CSharp\1PrivetmirConsoleApp1\1PrivetmirConsoleApp1\obj\Debug\1PrivetmirConsoleApp1.pdb
