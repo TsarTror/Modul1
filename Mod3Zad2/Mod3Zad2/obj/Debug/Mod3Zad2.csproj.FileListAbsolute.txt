@@ -1,0 +1,8 @@
+G:\Work\CSharp\Mod3Zad2\Mod3Zad2\obj\Debug\Mod3Zad2.csproj.AssemblyReference.cache
+G:\Work\CSharp\Mod3Zad2\Mod3Zad2\obj\Debug\Mod3Zad2.csproj.SuggestedBindingRedirects.cache
+G:\Work\CSharp\Mod3Zad2\Mod3Zad2\obj\Debug\Mod3Zad2.csproj.CoreCompileInputs.cache
+G:\Work\CSharp\Mod3Zad2\Mod3Zad2\bin\Debug\Mod3Zad2.exe.config
+G:\Work\CSharp\Mod3Zad2\Mod3Zad2\bin\Debug\Mod3Zad2.exe
+G:\Work\CSharp\Mod3Zad2\Mod3Zad2\bin\Debug\Mod3Zad2.pdb
+G:\Work\CSharp\Mod3Zad2\Mod3Zad2\obj\Debug\Mod3Zad2.exe
+G:\Work\CSharp\Mod3Zad2\Mod3Zad2\obj\Debug\Mod3Zad2.pdb
