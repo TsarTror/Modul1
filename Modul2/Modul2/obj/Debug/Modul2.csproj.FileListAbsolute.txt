@@ -1,8 +1,0 @@
-G:\Work\CSharp\Modul2\Modul2\obj\Debug\Modul2.csproj.AssemblyReference.cache
-G:\Work\CSharp\Modul2\Modul2\obj\Debug\Modul2.csproj.SuggestedBindingRedirects.cache
-G:\Work\CSharp\Modul2\Modul2\obj\Debug\Modul2.csproj.CoreCompileInputs.cache
-G:\Work\CSharp\Modul2\Modul2\bin\Debug\Modul2.exe.config
-G:\Work\CSharp\Modul2\Modul2\bin\Debug\Modul2.exe
-G:\Work\CSharp\Modul2\Modul2\bin\Debug\Modul2.pdb
-G:\Work\CSharp\Modul2\Modul2\obj\Debug\Modul2.exe
-G:\Work\CSharp\Modul2\Modul2\obj\Debug\Modul2.pdb
