@@ -1,8 +1,0 @@
-G:\Work\CSharp\PrivetMir\PrivetMir\bin\Debug\PrivetMir.exe.config
-G:\Work\CSharp\PrivetMir\PrivetMir\bin\Debug\PrivetMir.exe
-G:\Work\CSharp\PrivetMir\PrivetMir\bin\Debug\PrivetMir.pdb
-G:\Work\CSharp\PrivetMir\PrivetMir\obj\Debug\PrivetMir.csproj.AssemblyReference.cache
-G:\Work\CSharp\PrivetMir\PrivetMir\obj\Debug\PrivetMir.csproj.SuggestedBindingRedirects.cache
-G:\Work\CSharp\PrivetMir\PrivetMir\obj\Debug\PrivetMir.csproj.CoreCompileInputs.cache
-G:\Work\CSharp\PrivetMir\PrivetMir\obj\Debug\PrivetMir.exe
-G:\Work\CSharp\PrivetMir\PrivetMir\obj\Debug\PrivetMir.pdb
