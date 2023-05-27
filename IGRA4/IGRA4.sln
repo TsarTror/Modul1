@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IGRA4", "IGRA4\IGRA4.csproj", "{9A975388-7C33-4CB8-960C-AC2D1FCEC6D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A975388-7C33-4CB8-960C-AC2D1FCEC6D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A975388-7C33-4CB8-960C-AC2D1FCEC6D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A975388-7C33-4CB8-960C-AC2D1FCEC6D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A975388-7C33-4CB8-960C-AC2D1FCEC6D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C65393D-635A-4F55-8A49-FA9C5D8CE68E}
+	EndGlobalSection
+EndGlobal

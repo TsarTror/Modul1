@@ -1,0 +1,8 @@
+G:\Work\CSharp\Modul4\Modul4\obj\Debug\Modul4.csproj.AssemblyReference.cache
+G:\Work\CSharp\Modul4\Modul4\obj\Debug\Modul4.csproj.SuggestedBindingRedirects.cache
+G:\Work\CSharp\Modul4\Modul4\obj\Debug\Modul4.csproj.CoreCompileInputs.cache
+G:\Work\CSharp\Modul4\Modul4\bin\Debug\Modul4.exe.config
+G:\Work\CSharp\Modul4\Modul4\bin\Debug\Modul4.exe
+G:\Work\CSharp\Modul4\Modul4\bin\Debug\Modul4.pdb
+G:\Work\CSharp\Modul4\Modul4\obj\Debug\Modul4.exe
+G:\Work\CSharp\Modul4\Modul4\obj\Debug\Modul4.pdb

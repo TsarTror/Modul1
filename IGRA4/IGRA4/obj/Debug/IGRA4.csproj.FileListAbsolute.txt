@@ -1,0 +1,8 @@
+G:\Work\CSharp\IGRA4\IGRA4\bin\Debug\IGRA4.exe.config
+G:\Work\CSharp\IGRA4\IGRA4\bin\Debug\IGRA4.exe
+G:\Work\CSharp\IGRA4\IGRA4\bin\Debug\IGRA4.pdb
+G:\Work\CSharp\IGRA4\IGRA4\obj\Debug\IGRA4.csproj.AssemblyReference.cache
+G:\Work\CSharp\IGRA4\IGRA4\obj\Debug\IGRA4.csproj.SuggestedBindingRedirects.cache
+G:\Work\CSharp\IGRA4\IGRA4\obj\Debug\IGRA4.csproj.CoreCompileInputs.cache
+G:\Work\CSharp\IGRA4\IGRA4\obj\Debug\IGRA4.exe
+G:\Work\CSharp\IGRA4\IGRA4\obj\Debug\IGRA4.pdb
