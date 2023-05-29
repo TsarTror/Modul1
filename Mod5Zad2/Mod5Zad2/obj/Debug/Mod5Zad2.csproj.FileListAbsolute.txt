@@ -1,0 +1,8 @@
+G:\Work\CSharp\Mod5Zad2\Mod5Zad2\bin\Debug\Mod5Zad2.exe.config
+G:\Work\CSharp\Mod5Zad2\Mod5Zad2\bin\Debug\Mod5Zad2.exe
+G:\Work\CSharp\Mod5Zad2\Mod5Zad2\bin\Debug\Mod5Zad2.pdb
+G:\Work\CSharp\Mod5Zad2\Mod5Zad2\obj\Debug\Mod5Zad2.csproj.AssemblyReference.cache
+G:\Work\CSharp\Mod5Zad2\Mod5Zad2\obj\Debug\Mod5Zad2.csproj.SuggestedBindingRedirects.cache
+G:\Work\CSharp\Mod5Zad2\Mod5Zad2\obj\Debug\Mod5Zad2.csproj.CoreCompileInputs.cache
+G:\Work\CSharp\Mod5Zad2\Mod5Zad2\obj\Debug\Mod5Zad2.exe
+G:\Work\CSharp\Mod5Zad2\Mod5Zad2\obj\Debug\Mod5Zad2.pdb
